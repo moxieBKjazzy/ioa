@@ -18,9 +18,9 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: ioa
+title: Iowa Ornithologists' Association Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Record book of the Iowa Ornithologists' Association
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
